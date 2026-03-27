@@ -1,0 +1,17 @@
+# Binários
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build
+bin/
+dist/
+
+# Dependências
+vendor/
+
+# IDE
+.vscode/
+.idea/
