@@ -68,8 +68,4 @@ Monitorando...
 
 Pull requests são bem-vindos. Para mudanças maiores, abra uma issue descrevendo a proposta antes de implementá-la.
 
-## Licença
-
-Este repositório não possui uma licença explícita definida. Adicione um arquivo `LICENSE` se quiser liberar o código sob uma licença específica.
-
 ---
