@@ -45,6 +45,8 @@ func testWebsite(website string) {
 		fmt.Printf("Site: %s está com problemas. Status Code: %d\n", website, resp.StatusCode)
 		infra.RegisterLog(website, false)
 	}
+
+	// Teste commit
 }
 
 func readFileWebsite() []string {
